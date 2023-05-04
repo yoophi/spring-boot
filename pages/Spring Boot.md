@@ -2,8 +2,12 @@
 - [[Testing]]
 - [[Spring Security]]
 - REST Application 만들기
-	- Swagger
+	- Swagger Spec 작성하기
 - Server Sent Event 만들기
 - Websocket 만들기
 - Kafka Consumer 만들기
+- Thymeleaf 템플릿
+- JPA
+- Kotlin 으로 개발하기
+-
 - [[배포하기]]
