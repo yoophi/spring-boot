@@ -5,7 +5,8 @@
 - 특별히 신경써야할 것이 있을까요?
 	- 구현 위주
 	- 아키텍처 및 디자인 패턴 적용
-		- Clean Architecture, Domain Driven Design
-	- Test Driven Devele
+		- [[Clean Architecture]], [[Domain Driven Design]]
+	- [[Test Driven Development]] 적용
+	- [[Modern Java]] 적용
 - 어떤 것을 만들어볼까요?
 - [[정리할 것]]
