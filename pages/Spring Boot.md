@@ -1,4 +1,5 @@
 - CLI 어플리케이션 만들기
+- 마이크로서비스 어플리케이션 만들기
 - [[Testing]]
 - [[Spring Security]]
 - REST Application 만들기
@@ -9,5 +10,6 @@
 - Thymeleaf 템플릿
 - JPA
 - Kotlin 으로 개발하기
--
+- Java Stream 사용하기
+- Lambda 사용하기
 - [[배포하기]]
