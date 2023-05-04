@@ -1,4 +1,9 @@
 - CLI 어플리케이션 만들기
 - [[Testing]]
 - [[Spring Security]]
--
+- REST Application 만들기
+	- Swagger
+- Server Sent Event 만들기
+- Websocket 만들기
+- Kafka Consumer 만들기
+- [[배포하기]]
